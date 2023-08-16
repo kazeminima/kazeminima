@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kazeminima
+- 👀 I’m interested in Biological Data Analysis
+- 🌱 I’m currently learning Python Scripting
+- 📫 How to reach me: kazemi.nima@yahoo.com
